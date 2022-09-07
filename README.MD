@@ -1,5 +1,5 @@
 # PAPER-MUSKETEERS
-This is an in progress github for anyone who was interested in wokring towards publishing an acadmeic paper under Dr.Noah Davis and ARL.
+This is an in progress github for anyone who was interested in wokring towards publishing an acadmeic paper under Dr.Noah Davis as part of our Research Program we are creating for the Quantum Collective.
 
 We are creating a research program for our club. 
 This program is supervised by Dr. Noah Davis. We are self-driven students
