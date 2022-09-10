@@ -4,6 +4,10 @@ This is the UT Quantum Collective’s first research program. This is a 6 month-
 
 This program is intended to cultivate a group of mentors within the Quantum Collective who will have a chance to guide the program in later years and build on our core pillar of research to make the entry barrier into quantum computing accessible for undergraduate students.
 
+# Deadline to Enroll:
+
+After the first session when background materials will be given, you may use the two week period up to **September 26th** to see if this program is a good fit for you before team assignments are made.
+
 # Program Benefits:
 
 - Understanding research methodology and how scientists work on problems
