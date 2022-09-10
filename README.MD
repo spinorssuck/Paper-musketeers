@@ -136,12 +136,14 @@ In this last month, we will focus on preparing our final research group poster p
 
 ***Final Group Presentations:***
 
-TBD—Potentially at S.Q.U.I.D Conference?????
+## S.Q.U.I.D Conference
 
 Your groups will present your research! T.B.D On this because I’d like this to go towards the broader UT Community and any bigger events the Quantum Collective plans. As we establish the rest of our club schedule, more information on where and when will be released.
+
+The S.Q.U.I.D Conference will be an event where students from all over will present their research at UT Austin! Present your work to our other Club members from the Quantum Coalition, which includes students at other universities from Berkekely, Yale, Oxford, and many more! We plan on bringing in our Quantum Partners (TBD)
 
 # Conclusion:
 
 Your Dirac-tors of research and Dr. Noah Davis will finalize the paper and handle submitting the paper for publication to venues of our choice. 
 
-S**omething fun to celebrate** 😊 We will plan something for all the hard work you put in this year to make this program successful!
+**Something fun to celebrate** 😊 We will plan something for all the hard work you put in this year to make this program successful!
