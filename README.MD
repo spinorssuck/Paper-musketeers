@@ -12,7 +12,8 @@ This program is intended to cultivate a group of mentors within the Quantum Coll
 - Develop knowledge about a subfield within Quantum Computing, as well as hands-on experience with quantum programming
 - Gain transferrable skills for STEM research and professional careers
 - Credibility with research experience for graduate programs
-- participate in conferences and any undergraduate research events at UT Austin as we incorporate opportunities throughout the year.
+- Participate in conferences and any undergraduate research events at UT Austin as we incorporate opportunities throughout the year.
+- Become a research mentor for the next wave of @paper-musketeers in the Quantum Collective
 
 # Fall 2022- Spring 2023 Topic (In Progress):
 
