@@ -1,4 +1,4 @@
-# 🤺PAPER-MUSKETEERS2020-2023 Program Outline
+# 🤺PAPER-MUSKETEERS 2020-2023 Program Outline
 
 This is the UT Quantum Collective’s first research program. This is a 6 month-long program where undergraduate students work collectively towards publishing an academic paper, working in groups to research a specific application of the yearly topic. Students will work in groups throughout the year, meeting bi-weekly with the research cohort to share updates, progress, and what they learned about their work. Students will spend a month building their background knowledge about the topic area and learning the fundamentals needed to start working effectively with their research group and build foundational skills for writing academic papers. Through this program, students will gain valuable experience in a hypothesis-driven research process, develop independent critical thinking, communication, and presentation skills, learn to work independently and build tolerance for obstacles, and make meaningful contributions to the broader scientific community of Quantum Computing Research. 
 
@@ -69,13 +69,18 @@ Enrolled students will meet their mentor and receive an introduction to research
 
 **You may use this period to assess whether you feel ready to participate in our research program.**
 
-***Topic Algorithm: Review, Implementation walkthrough, and Team Assignments***
+
+***Degign Thinking in Research and Introduction to Academic Writing***
 
 *September 21st, 5:30 PM*
 
-In this session, we will go over an implementation of our algorithm of choice as well as announce the program research Topic for the year in-depth. Team assignments will be announced, and we will go over how each team will contribute to our hypothesis. More learning resources will be given to your research team based on your area of application. We will give an introductory assignment for your team to learn about your area of specification
+We will use this session to go over the basics of writing an academic paper, and introduce desing thinkng principles in stem to help guide the academic writing process. With your Dirac-tors, Michelle and Ronak
 
-***First Check-in and Introduction to Academic Writing***
+***Topic Algorithm: Review, Implementation walkthrough, and Team Assignments***
+
+*September 28th, 5:30 PM*
+
+In this session, we will go over an implementation of our algorithm of choice as well as announce the program research Topic for the year in-depth. Team assignments will be announced, and we will go over how each team will contribute to our hypothesis. More learning resources will be given to your research team based on your area of application. We will give an introductory assignment for your team to learn about your area of specification
 
 *September 28th, 5:30 PM*
 
