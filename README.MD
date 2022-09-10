@@ -86,7 +86,9 @@ We will use this session to go over the basics of writing an academic paper, and
 
 In this session, we will go over an implementation of our algorithm of choice as well as announce the program research Topic for the year in-depth. Team assignments will be announced, and we will go over how each team will contribute to our hypothesis. More learning resources will be given to your research team based on your area of application. We will give an introductory assignment for your team to learn about your area of specification
 
-*September 28th, 5:30 PM*
+***Group Check-in and Topic Review***
+
+*October 5th, 5:30 PM*
 
 We will use this session as a time to check in about our progress and understanding to access the best next steps with our guidance. We will go over best practices for academic writing and our goals for your team to best incorporate your research into our paper.  
 
