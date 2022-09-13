@@ -1,6 +1,6 @@
 # 🤺PAPER-MUSKETEERS 2020-2023 Program Outline
 
-This is the UT Quantum Collective’s first research program. This is a 6 month-long program where undergraduate students work collectively towards publishing an academic paper, working in groups to research a specific application of the yearly topic. Students will work in groups throughout the year, meeting bi-weekly with the research cohort to share updates, progress, and what they learned about their work. Students will spend a month building their background knowledge about the topic area and learning the fundamentals needed to start working effectively with their research group and build foundational skills for writing academic papers. Through this program, students will gain valuable experience in a hypothesis-driven research process, develop independent critical thinking, communication, and presentation skills, learn to work independently and build tolerance for obstacles, and make meaningful contributions to the broader scientific community of Quantum Computing Research. 
+This is the UT Quantum Collective’s first research program. This is a (**TBD EXACT**)3 or 6 month-long program where undergraduate students work collectively towards publishing an academic paper, working in groups to research a specific application based on their research interests. Students will work in groups throughout the year, meeting bi-weekly with the research cohort to share updates, progress, and what they learned about their work. Students will spend a month building their background knowledge about the topic area and learning the fundamentals needed to start working effectively with their research group and build foundational skills for writing academic papers. Through this program, students will gain valuable experience in a hypothesis-driven research process, develop independent critical thinking, communication, and presentation skills, learn to work independently and build tolerance for obstacles, and make meaningful contributions to the broader scientific community of Quantum Computing Research. 
 
 This program is intended to cultivate a group of mentors within the Quantum Collective who will have a chance to guide the program in later years and build on our core pillar of research to make the entry barrier into quantum computing accessible for undergraduate students.
 
@@ -21,13 +21,13 @@ After the first session when background materials will be given, you may use the
 
 # Fall 2022- Spring 2023 Topic (In Progress):
 
-The general topic will be centered around variaitonal quantum algorithms to allow us to accommodate all your research interest. Background Materials will be provided following the Introductory meeting with your mentor. **We are working on one paper collectively this year, but accommodating all your research interests.**
+The general topic will be centered around variaitonal quantum algorithms to allow us to accommodate all your research interest. Background Materials will be provided following the Introductory meeting with your mentor. **We are working surveyr papers within your groups to accommodate all your research interests.**
 
-Our goal is to submit a paper for review to a publishing venue by the end of March.
+Our goal is to submit survery papers for review to a publishing venue by the end of March, if not sooner.
 
 # Research Structure:
 
-Students will be placed in groups of 4 or 5 depending on their research interests from the application form, and each team will work through the 6 months on their area of the research paper. All groups will meet bi-weekly with our mentor to share our progress, roadblocks, and have a collective space for discussion. Each team will determine the best work structure, and agree upon their expectations for communication, work ethic, and roles. Throughout the year, you will contribute to writing the body of our paper based on your application area, learning how to create a framework for a testable experiment, implement your experiment on quantum simulators and/or hardware, as well as understand best practices for analyzing your data and synthesize your results. 
+Students will be placed in groups of 4 or 5 depending on their research interests from the application form, and each team will work through the 6 months on their area of the research paper. All groups will meet bi-weekly with our mentor to share our progress, roadblocks, and have a collective space for discussion. Each team willa survery paper based on your application area, learning how to create a framework for a testable experiment, implement your experiment on quantum simulators and/or hardware, as well as understand best practices for analyzing your data and synthesize your results. 
 
 Teams will each have a forked repository in GitHub from our main repository. 
 
