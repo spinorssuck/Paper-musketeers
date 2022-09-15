@@ -21,7 +21,6 @@ We are looking for graduate mentors and faculty who are enthusiatic about meetin
 
 # Fall 2022:
 
-
 Our goal is to submit survery papers for review by the end of the to Arxiv, if not sooner.
 
 # Research Structure:
