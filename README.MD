@@ -5,8 +5,9 @@ This is the UT Quantum Collective’s first research program. This is a semester
 This program is intended to cultivate a group of mentors within the Quantum Collective who will have a chance to guide the program in later years and build on our core pillar of research to make the entry barrier into quantum computing accessible for undergraduate students.
 
 # LOOKING FOR MENTORS!
-We are looking for graduate mentors and faculty who are enthusiatic about meeting through-out the semester(virtual or in-person) to help guide passionate studenst in putting together their survery papers and help us create our topic proposals! At minimum, we are looking for mentors who are able to meet weekly/bi-weely with your research group. We also have a discord channel availble for our research group to keep you connected. 
+We are looking for graduate mentors and faculty who are enthusiatic about meeting through-out the semester(virtual or in-person) to help guide passionate students in putting together their survery papers and help us create our topic proposals! At minimum, we are looking for mentors who are able to meet weekly/bi-weely with your research group. We also have a discord channel availble for our research group to keep you connected. 
 
+[**APPLY TO BE A MENTOR**](https://forms.gle/NK9LjT3RXpJASXpk8)
 # Program Benefits:
 
 - Understanding research methodology and how scientists work on problems
@@ -20,7 +21,6 @@ We are looking for graduate mentors and faculty who are enthusiatic about meetin
 
 # Fall 2022:
 
-We will start by 
 
 Our goal is to submit survery papers for review by the end of the to Arxiv, if not sooner.
 
@@ -107,7 +107,7 @@ In this session, we will go over best practices in writing up your experiment re
 
 ***Final Preparations***
 
-*March 8th, 15th, 22nd, 5:30 PM*
+*Late November/December*
 
 In this last month, we will focus on preparing our final research group poster presentations, cleanup our codebase for publication quality standards, and continue with finalizing our results as well as provide mentorship.
 
