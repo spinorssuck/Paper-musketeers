@@ -1,12 +1,11 @@
 # 🤺PAPER-MUSKETEERS 2020-2023 Program Outline
 
-This is the UT Quantum Collective’s first research program. This is a (**TBD EXACT**)3 or 6 month-long program where undergraduate students work collectively towards publishing an academic paper, working in groups to research a specific application based on their research interests. Students will work in groups throughout the year, meeting bi-weekly with the research cohort to share updates, progress, and what they learned about their work. Students will spend a month building their background knowledge about the topic area and learning the fundamentals needed to start working effectively with their research group and build foundational skills for writing academic papers. Through this program, students will gain valuable experience in a hypothesis-driven research process, develop independent critical thinking, communication, and presentation skills, learn to work independently and build tolerance for obstacles, and make meaningful contributions to the broader scientific community of Quantum Computing Research. 
+This is the UT Quantum Collective’s first research program. This is a er-long program where undergraduate students work towards publishing academic survery papers, working in groups to research a specific application based on their research interests. Students will work in groups throughout the semester, meeting bi-weekly with the research cohort to share updates, progress, and what they learned about their work. Students will spend a month building their background knowledge about the topic area and learning the fundamentals needed to start working effectively with their research group and build foundational skills for writing academic papers. Through this program, students will gain valuable experience in a hypothesis-driven research process, develop independent critical thinking, communication, and presentation skills, learn to work independently and build tolerance for obstacles, and make meaningful contributions to the broader scientific community of Quantum Computing Research. 
 
 This program is intended to cultivate a group of mentors within the Quantum Collective who will have a chance to guide the program in later years and build on our core pillar of research to make the entry barrier into quantum computing accessible for undergraduate students.
 
-# Deadline to Enroll:
-
-After the first session when background materials will be given, you may use the two week period up to **September 26th** to see if this program is a good fit for you before team assignments are made.
+# LOOKING FOR MENTORS!
+We are looking for graduate mentors, faculty, 
 
 # Program Benefits:
 
@@ -19,11 +18,11 @@ After the first session when background materials will be given, you may use the
 - Participate in conferences and any undergraduate research events at UT Austin as we incorporate opportunities throughout the year.
 - Become a research mentor for the next wave of @paper-musketeers in the Quantum Collective
 
-# Fall 2022- Spring 2023 Topic (In Progress):
+# Fall 2022:
 
-The general topic will be centered around variaitonal quantum algorithms to allow us to accommodate all your research interest. Background Materials will be provided following the Introductory meeting with your mentor. **We are working surveyr papers within your groups to accommodate all your research interests.**
+We will start by 
 
-Our goal is to submit survery papers for review to a publishing venue by the end of March, if not sooner.
+Our goal is to submit survery papers for review by the end of the to Arxiv, if not sooner.
 
 # Research Structure:
 
@@ -80,13 +79,13 @@ Enrolled students will meet their mentor and receive an introduction to research
 
 We will use this session to go over the basics of writing an academic paper, and introduce desing thinkng principles in stem to help guide the academic writing process. With your Dirac-tors, Michelle and Ronak
 
-***Topic Algorithm: Review, Implementation walkthrough, and Team Assignments***
+***Topic Review: Implementation walkthrough, and Team Assignments***
 
 *September 28th, 5:30 PM*
 
-In this session, we will go over an implementation of our algorithm of choice as well as announce the program research Topic for the year in-depth. Team assignments will be announced, and we will go over how each team will contribute to our hypothesis. More learning resources will be given to your research team based on your area of application. We will give an introductory assignment for your team to learn about your area of specification
+In this session, we will go over an implementation of an algorithm of choice. Team assignments will be announced, and we will go over how each team will work together with their mentor. More learning resources will be given to your research team based on your area of application. We will give an introductory assignment for your team to learn about your area of specification.
 
-***Group Check-in and Topic Review***
+***Group Check-in and Topic ***
 
 *October 5th, 5:30 PM*
 
@@ -100,6 +99,24 @@ We will use this session as a time to check in about our progress and understand
 
 Throughout the remainder of the year, your mentor and Dirac-tors of research will meet bi-weekly with all research groups where each group will share progress, roadblocks, successes, and insights. This is intended to be a collaborative space where we encourage you all to ask questions and interactively share ideas to build each other’s knowledge. We will use these sessions to track our overall progress.
 
+***Putting the Pieces Together***
+
+*Late November, 5:30 PM*
+
+In this session, we will go over best practices in writing up your experiment results, choosing quality results, and establishing interpretations from your data. We will focus this month on any roadblocks teams are facing and prioritize guidance in high-impact areas accordingly in order to write our final paper draft. 
+
+***Final Preparations***
+
+*March 8th, 15th, 22nd, 5:30 PM*
+
+In this last month, we will focus on preparing our final research group poster presentations, cleanup our codebase for publication quality standards, and continue with finalizing our results as well as provide mentorship.
+
+## S.Q.U.I.D Conference- FALL SEMESTER
+
+Your groups will present your research! T.B.D On this because I’d like this to go towards the broader UT Community and any bigger events the Quantum Collective plans. As we establish the rest of our club schedule, more information on where and when will be released.
+
+The S.Q.U.I.D Conference will be an event where students from all over will present their research at UT Austin! Present your work to our other Club members from the Quantum Coalition, which includes students at other universities from Berkekely, Yale, Oxford, and many more! We plan on bringing in our Quantum Partners (TBD)
+
 ## December - Early January
 
 ***Winter Break***
@@ -112,7 +129,7 @@ Winter break. Research Groups may decide whether or not to continue working duri
 
 *January 11th, 5:30 PM*
 
-Welcome back! We will all meet again, talk about our amazing winter break, and set realistic goals for the rest of the semester based on our progress within our research groups. 
+Welcome back! We will all meet again, talk about our amazing winter break, and set realistic goals for the rest of the semester based on our progress within our research groups. Maybe even get some new research groups to write experimental or analytical research papers for thos students who feel more prepared after the survey paper groups 😊
 
 ***Progress check-ins and Open Forum Discussions***
 
@@ -136,7 +153,7 @@ In this last month, we will focus on preparing our final research group poster p
 
 ***Final Group Presentations:***
 
-## S.Q.U.I.D Conference
+## S.Q.U.I.D Conference -SPRING
 
 Your groups will present your research! T.B.D On this because I’d like this to go towards the broader UT Community and any bigger events the Quantum Collective plans. As we establish the rest of our club schedule, more information on where and when will be released.
 
@@ -144,6 +161,6 @@ The S.Q.U.I.D Conference will be an event where students from all over will pres
 
 # Conclusion:
 
-Your Dirac-tors of research and Dr. Noah Davis will finalize the paper and handle submitting the paper for publication to venues of our choice. 
+Your Dirac-tors of research, mentors and Dr. Noah Davis will finalize the paper and handle submitting the paper for publication to venues of our choice. 
 
 **Something fun to celebrate** 😊 We will plan something for all the hard work you put in this year to make this program successful!
