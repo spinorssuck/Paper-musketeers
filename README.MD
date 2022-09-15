@@ -72,7 +72,7 @@ Enrolled students will meet their mentor and receive an introduction to research
 **You may use this period to assess whether you feel ready to participate in our research program.**
 
 
-***Degign Thinking in Research and Introduction to Academic Writing***
+***Design Thinking in Research and Introduction to Academic Writing***
 
 *September 21st, 5:30 PM*
 
