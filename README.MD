@@ -25,7 +25,7 @@ Our goal is to submit survery papers for review by the end of the to Arxiv, if n
 
 # Research Structure:
 
-Students will be placed in groups of 4 or 5 depending on their research interests from the application form, and each team will work through the 6 months on their area of the research paper. All groups will meet bi-weekly with our mentor to share our progress, roadblocks, and have a collective space for discussion. Each team willa survery paper based on your application area, learning how to create a framework for a testable experiment, implement your experiment on quantum simulators and/or hardware, as well as understand best practices for analyzing your data and synthesize your results. 
+Students will be placed in groups of 4 or 5 depending on their research interests from the application form, and each team will work through the semester on their area of research. All groups will meet bi-weekly with our mentor to share our progress, roadblocks, and have a collective space for discussion. Each team will produce a survery paper based on your application area, learning how to create a framework for a testable experiment, implement your experiment on quantum simulators and/or hardware, as well as understand best practices for analyzing your data and synthesize your results. 
 
 Teams will each have a forked repository in GitHub from our main repository. 
 
