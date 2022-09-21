@@ -31,7 +31,7 @@ Teams will each have a forked repository in GitHub from our main repository.
 
 Teams will have a channel on the discord server and use #paper-musketeers for a collaborative discussion space.
 
-Your mentor will be available on discord as well as the bi-weekly meetings to help guide your research progress. 
+Your mentor will be available on discord an as their schedule allows to help guide your research progress. 
 
 We will try to work on bringing in more mentors throughout the year and make announcements accordingly. 
 
