@@ -5,7 +5,9 @@ This is the UT Quantum Collective’s first research program. This is a semester
 This program is intended to cultivate a group of mentors within the Quantum Collective who will have a chance to guide the program in later years and build on our core pillar of research to make the entry barrier into quantum computing accessible for undergraduate students.
 
 # LOOKING FOR MENTORS!
-We are looking for graduate mentors and faculty who are enthusiatic about meeting through-out the semester(virtual or in-person) to help guide passionate students in putting together their survery papers and help us create our topic proposals! At minimum, we are looking for mentors who are able to meet weekly/bi-weely with your research group. We also have a discord channel availble for our research group to keep you connected. 
+We are looking for graduate mentors and faculty who are enthusiatic about meeting through-out the semester(virtual or in-person) to help guide passionate students in exploring a topic in Quantum and help us create our topic proposals! At minimum, we are looking for mentors who are able to meet bi-weekly with your research group for at least an hour--whether virtually or in person. Your role is just to be resource as your schedule permits as these student groups work on the papers and try to learn about your topic area. You are not reponsible for helping write the paper or submitting it to publishing venues. We also have a discord channel availble for our research group to keep you connected. 
+
+Since we have bi-weekly meetings, you can also come in to talk about your work to undergraduates students at one of our sessions if you're interested.
 
 [**APPLY TO BE A MENTOR**](https://forms.gle/NK9LjT3RXpJASXpk8)
 # Program Benefits:
