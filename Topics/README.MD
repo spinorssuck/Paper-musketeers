@@ -4,7 +4,7 @@
 
 Please take some time to look over each document! On **Wednesday, October 5th, 5:30 PM**, you will recieve your group assignments and meet some more mentors.
 We will take questions, go over each topic more in-depth and how it may shape your survery paper as well as cover research conference opporunities. When you are ready to
-sign-up for a topic, **fill out this form here**.
+sign-up for a topic, **[fill out this form here](https://forms.gle/1La3k59hAvtkSZNU9)**.
 
 Your mentors will be in the discord, and we will get you connected with one for your assigned group at the next meeting. 
 
