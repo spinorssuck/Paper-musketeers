@@ -17,3 +17,6 @@ Your mentors will be in the discord, and we will get you connected with one for 
 ## [BH: Black Hole Physics](https://docs.google.com/document/d/1ko0NOR6xqVQRZHdD9lX_lTXPfNLv5bSDzmigyOHd6BY/edit#)
 
 ## [QEC: Quantum Error Correction](https://docs.google.com/document/d/1_Gf93FGcRtHJ3DPnAD7wF1Gh8vBdDrZ6V9BzMVIgGLU/edit)
+
+
+Made with ♥ By Ronak
